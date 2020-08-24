@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+# About Me
 
-You can use the [editor on GitHub](https://github.com/whisperingfantasies/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Currently working part time as a scientific aid for California Department of Fish and Wildlife while searching for and applying for grants to study Sunda Pangolins. I am also taking Vietnamese other biology related classes on the side to further my scientific training. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
